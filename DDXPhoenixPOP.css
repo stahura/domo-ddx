@@ -1,0 +1,21 @@
+#myDiv{
+    height: calc(100vh);
+}
+
+
+.header-text {
+  font-size: 20px
+}
+
+.last-value {
+  font-size: 100px
+}
+
+.percent-chg-val {
+  font-size: 32px
+}
+
+.percent-chg-text {
+  font-size: 20px
+}
+
